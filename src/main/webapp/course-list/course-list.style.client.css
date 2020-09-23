@@ -1,0 +1,23 @@
+.wbdv-add-course-button{
+color: red;
+}
+
+.wbdv-sticky-add-course-button{
+position:fixed;
+right:0px;
+bottom:0px;
+}
+
+.wbdv-sticky-header{
+position: fixed;
+top: 0px;
+background-color: lightblue;
+left: 0px;
+right: 0px;
+padding-top: 2-px;
+}
+
+body{
+padding-top: 90px;
+
+}
